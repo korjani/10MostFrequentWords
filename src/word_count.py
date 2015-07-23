@@ -39,7 +39,7 @@ def print_top(filename):
 	
 def main():
   if len(sys.argv) != 2:
-    print 'usage: ./SDL_problem1.py file'
+    print 'usage: ./word_count.py file'
     sys.exit(1)
 
   filename = sys.argv[1]
