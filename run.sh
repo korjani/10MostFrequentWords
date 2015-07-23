@@ -1,1 +1,1 @@
-python word_count.py e.txt
+python ./src/word_count.py ./input_file/words.txt
